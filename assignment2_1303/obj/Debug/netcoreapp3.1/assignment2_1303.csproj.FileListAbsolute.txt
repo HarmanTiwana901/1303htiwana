@@ -1,0 +1,13 @@
+C:\Users\Harman\source\repos\assignment2_1303\bin\Debug\netcoreapp3.1\assignment2_1303.exe
+C:\Users\Harman\source\repos\assignment2_1303\bin\Debug\netcoreapp3.1\assignment2_1303.deps.json
+C:\Users\Harman\source\repos\assignment2_1303\bin\Debug\netcoreapp3.1\assignment2_1303.runtimeconfig.json
+C:\Users\Harman\source\repos\assignment2_1303\bin\Debug\netcoreapp3.1\assignment2_1303.runtimeconfig.dev.json
+C:\Users\Harman\source\repos\assignment2_1303\bin\Debug\netcoreapp3.1\assignment2_1303.dll
+C:\Users\Harman\source\repos\assignment2_1303\bin\Debug\netcoreapp3.1\assignment2_1303.pdb
+C:\Users\Harman\source\repos\assignment2_1303\obj\Debug\netcoreapp3.1\assignment2_1303.csprojAssemblyReference.cache
+C:\Users\Harman\source\repos\assignment2_1303\obj\Debug\netcoreapp3.1\assignment2_1303.AssemblyInfoInputs.cache
+C:\Users\Harman\source\repos\assignment2_1303\obj\Debug\netcoreapp3.1\assignment2_1303.AssemblyInfo.cs
+C:\Users\Harman\source\repos\assignment2_1303\obj\Debug\netcoreapp3.1\assignment2_1303.csproj.CoreCompileInputs.cache
+C:\Users\Harman\source\repos\assignment2_1303\obj\Debug\netcoreapp3.1\assignment2_1303.dll
+C:\Users\Harman\source\repos\assignment2_1303\obj\Debug\netcoreapp3.1\assignment2_1303.pdb
+C:\Users\Harman\source\repos\assignment2_1303\obj\Debug\netcoreapp3.1\assignment2_1303.genruntimeconfig.cache
